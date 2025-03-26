@@ -79,7 +79,7 @@ bash
 
 CopyEdit
 
-git clone https://github.com/your-username/powerbi-business-dashboard.git
+https://github.com/MdYeakub-py/ANALYSIS-OF-FLIPKART-E-COMMERCE-DATA.git
 
 2.	Open the .pbix file in Power BI Desktop.
 
@@ -131,11 +131,13 @@ We welcome contributions! 🚀 If you’d like to improve this dashboard, feel f
 ________________________________________
 ## 📧 Contact
 
-📌 Author: [Your Name]
+📌 Author: ##
 
-📌 LinkedIn: [Your LinkedIn Profile]
+📌 LinkedIn: https://www.linkedin.com/in/mdyeakub35/
 
-📌 GitHub: [Your GitHub Profile]
+📌 GitHub: https://github.com/MdYeakub-py
+
+📌 Protfolio: https://mdyeakub-py.github.io/Personal_Portfolio-/
 
 # Screenshots of Report Pages:
 
